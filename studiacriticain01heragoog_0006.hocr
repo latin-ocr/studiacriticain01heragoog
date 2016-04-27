@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./studiacriticain01heragoog_0006.png"; bbox 0 0 2934 4775; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 190 1729 1250 1876">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 190 1729 1250 1876">
+     <span class='ocr_line' id='line_1_1' title="bbox 190 1729 1085 1806; baseline 0.006 -21"><span class='ocrx_word' id='word_1_1' title='bbox 190 1729 252 1786; x_wconf 82' lang='lat' dir='ltr'><strong>Duo</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 276 1730 321 1787; x_wconf 77' lang='lat' dir='ltr'>iiia</span> <span class='ocrx_word' id='word_1_3' title='bbox 344 1747 396 1788; x_wconf 81' lang='lat' dir='ltr'><strong>nos</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 419 1730 534 1789; x_wconf 73' lang='lat' dir='ltr'>maxime</span> <span class='ocrx_word' id='word_1_5' title='bbox 557 1739 682 1805; x_wconf 80' lang='lat' dir='ltr'><strong>movent,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 705 1732 851 1790; x_wconf 70' lang='lat' dir='ltr'>similitudo</span> <span class='ocrx_word' id='word_1_7' title='bbox 875 1738 904 1792; x_wconf 79' lang='lat' dir='ltr'><strong>et</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 926 1734 1085 1806; x_wconf 80' lang='lat' dir='ltr'>exemplum.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1137 1819 1250 1876; baseline 0.009 -1"><span class='ocrx_word' id='word_1_9' title='bbox 1137 1819 1250 1876; x_wconf 70' lang='lat' dir='ltr'>Clcssno.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 176 4186 1196 4258">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 176 4186 1196 4258">
+     <span class='ocr_line' id='line_1_3' title="bbox 176 4186 1196 4258; baseline -0.004 -16"><span class='ocrx_word' id='word_1_10' title='bbox 176 4189 211 4242; x_wconf 87' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 229 4188 473 4244; x_wconf 80' lang='lat' dir='ltr'>TYPOGRAPHEO</span> <span class='ocrx_word' id='word_1_12' title='bbox 493 4190 615 4242; x_wconf 81' lang='lat' dir='ltr'>DOELLli</span> <span class='ocrx_word' id='word_1_13' title='bbox 633 4192 656 4258; x_wconf 67' lang='lat' dir='ltr'><strong>df</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 673 4188 884 4241; x_wconf 78' lang='lat' dir='ltr'>SCHAEFFERII</span> <span class='ocrx_word' id='word_1_15' title='bbox 903 4186 1196 4250; x_wconf 71' lang='lat' dir='ltr'><strong>CASSELLANORUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1472 4775">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1472 4775">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1472 4775; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1472 4775; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
